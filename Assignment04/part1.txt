@@ -1,0 +1,68 @@
+Matt Lawrence Romanes
+romanematt
+300492211
+
+Core
+
+1) In C++, a constructor is a member function which initializes an object of a class or structure.
+
+2) In C++, an abstract class is such when a class contains at least one pure virtual function.
+
+3) 
+a) Valid
+b) Valid
+c) Valid
+d) Valid
+e) Invalid
+f) Valid
+g) Valid
+h) Invalid
+i) Invalid
+j) Invalid
+
+4) std::cout << "str[2] = " << str[i];
+
+
+5)
+
+Completion
+1) Inline functions are parsed by the compiler whereas a function-like macro is expanded by the preprocessor.
+
+2) 
+a) False
+b) True
+c) True
+d) True
+
+3)
+a) foo::increment()
+b)
+
+
+Challenge
+
+namespace bar{
+	class Square: Rectangle
+
+	public:
+		Square();
+        ~Square(int x){
+        	height = x;
+        	width = x;
+        }
+
+
+		height();
+		width();
+		area();
+
+	protected:
+		height;
+		width;
+
+}
+
+
+
+
+

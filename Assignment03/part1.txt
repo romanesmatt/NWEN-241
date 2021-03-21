@@ -1,0 +1,45 @@
+Core
+
+1)
+exit()
+
+2)
+Child process' process ID, 0
+
+3)
+c) Sleeping is not a valid process state.
+
+4)
+Synchronous sockets block an operation until the operation is completed.
+Asynchronous sockets are non-blocking and therefore will only initiate the operation.
+
+Link: https://www.cs.unc.edu/~dewan/242/s07/notes/ipc/node9.html
+
+5)
+int connect(sockfd, const struct sockaddr *addr, socklen_t, addrlen)
+
+6)
+a) False
+b) True
+c) False
+d) False
+
+7)
+c) bind, listen, accept, recv
+
+Completion
+1) pidA = 0, pidB = 561, var = 81
+pidA = 1943, pidB = 1943, var = 80
+
+2)
+
+3)
+c) sendto()
+
+
+Challenge
+1)
+a) It varies with each time the program is run.
+
+b)
+
